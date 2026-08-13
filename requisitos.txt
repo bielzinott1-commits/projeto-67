@@ -1,0 +1,55 @@
+# principais requisitos que um site de farmar aura deve proporcionar
+qualquer site deve ter um login claro apenas com as informações necessarias exemplo logar com o google,
+e algumas outras informações.
+
+na pagina inicial falar as principais e mais famosas localidades e eventos de farmar aura, com isso uma lista
+de todos os participantes de acordo com o evento e a localidade, só vai mostrar os competidores se acasso tiverem
+se inscrito para farmar aura, mostrar uma parte de inscrever-se para farmar aura nmostrar os requisitos minimos
+se acasso tiver cobrança realizar uma cobrança, caso não ouver a cobrança é apenas afirmar a presença no local.
+
+Radar de Eventos (Agenda Interativa): Uma lista cronológica de acontecimentos futuros (ex: Lutas de Aura entre
+ Criadores, Finais de Campeonatos de Aura, Premiações).
+
+o site deve conter imagens que representão o objetivo que chame ainda mais a atenção do usuario com o intuito de farmar aura.
+
+um grafico com todas as informações de cada evento com juis e votação de quem mais tem probabilidade de ganhar o campeonato.
+
+Termômetro de Aura (Aura Hype Meter): Uma barra onde a comunidade vota no potencial de aura do evento antes dele acontecer 
+(ex: "Este evento tem 95% de chance de gerar Aura Lendária").
+
+rankin de melhores participantes presentes, e rankin de melhores participantes que ja participaram deste evento.
+
+Calculadora de Aura: Um questionário diário ou gerador onde o usuário insere situações do dia a dia (ex: segurei a porta para 
+5 pessoas) e o site calcula quanto de aura ele ganhou ou perdeu (ex: +500 de Aura ou -10.000 de Aura).
+
+Missões Diárias (Aura Quests): Desafios reais para o usuário cumprir no mundo offline para ganhar pontos no site 
+(ex: Fazer contato visual com um estranho por 3 segundos sem piscar ou gravar um video fazendo o six seven em um lugar com pessoas).
+
+ter um perfil no site com varios niveis do 1 ao 99999 com cada barrinha de progresso com 67000 de xp para encher,
+cada campeonato ganhado ganha 5000xp e cada desafio cumprido mais 500xp.
+
+feed de "Aura Plays": Uma aba onde os usuários enviam relatos ou vídeos curtos de momentos em que tiveram "muita aura" para a 
+comunidade votar.
+
+Aura Loss Tracker: Um histórico ou gráfico mostrando os piores momentos do usuário onde a aura dele caiu drasticamente.
+poder ter interações com o perfil com a completa de desafios e subindo cada nivel a possibilidade de ganhar um meme novo, 
+com seu nivel de raridade e aura.
+
+a extensão de compartilhar suas estatisticas nas redes sociais varias redes sociais.
+
+Tribunal da Aura (Moderação pela Comunidade): Os usuários enviam histórias de coisas que fizeram. A comunidade vota em tempo real
+se a atitude foi +Aura ou -Aura. Se a maioria aprovar, o autor ganha os pontos.
+
+Aura Live Feed: Durante o evento, um chat/feed em tempo real onde a comunidade comenta e envia momentos marcantes.
+
+Hall da Fama x Hall da Vergonha: Arquivo permanente categorizando os eventos passados entre Lendários (+Aura) 
+e Desastrosos (-Aura/Cringe).
+
+Sistemas de Lembrete: Botão "Notificar-me" para integrar o evento diretamente com o Google Agenda ou Discord do usuário.
+
+Contagem Regressiva Visual: Relógios estilizados com estética neon/dark para os eventos mais aguardados da semana.
+
+<p align="center">
+  <img src="https://lh3.googleusercontent.com/gg/AAM33Sfg8R9lCksO6G83U4y7t5qjV8vS26vG6O7T7L48xQ8XW7w1j8V4z" alt="Aura Farmer Interface" width="600">
+</p>
+
