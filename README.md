@@ -1,4 +1,4 @@
-# Projeto 67 🎉
+# Projeto 67 
 
 Um programa de linha de comando em Java sobre o meme 67. Tem frases aleatórias, quiz, detector de 67 e um placar que sobe com seu nível de brainrot.
 
@@ -34,4 +34,4 @@ src/
 - Adicionar mais perguntas e frases (sugestões da galera são bem-vindas).
 - Criar um modo "67 contra o relógio".
 
-Sobe e desce. 🙌
+Sobe e desce. 
